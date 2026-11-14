@@ -44,7 +44,8 @@ FBL Notetaker nimmt Meetings auf deinem Windows-Rechner auf, schreibt mit, erken
 ## Datenschutz
 
 - Aufnahmen, Mitschriften und Notizen bleiben auf deinem Rechner. Keine Telemetrie.
-- Die App geht nur ins Netz, um Modelle von **Hugging Face** zu laden (beim ersten Start und wenn du weitere Modelle wählst) und – nur wenn du den OneNote-Export einrichtest – für die **Anmeldung bei Microsoft**.
+- Die App geht nur ins Netz, um Modelle von **Hugging Face** zu laden (beim ersten Start und wenn du weitere Modelle wählst), – nur wenn du den OneNote-Export einrichtest – für die **Anmeldung bei Microsoft** und, sobald automatische Updates aktiv sind, einmal am Tag für die **Update-Prüfung** hier auf GitHub (abschaltbar).
+- Die vollständige [Datenschutzerklärung](DATENSCHUTZ.md) gilt für den Installer von hier und für die Fassung aus dem Microsoft Store.
 
 ## Systemvoraussetzungen
 
