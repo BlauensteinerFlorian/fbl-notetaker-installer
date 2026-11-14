@@ -6,7 +6,7 @@ FBL Notetaker nimmt Meetings auf deinem Windows-Rechner auf, schreibt mit, erken
 
 **[⬇ Neueste Version herunterladen](../../releases/latest)** · kostenlos, auch für die berufliche Nutzung ([Lizenz](LICENSE.md))
 
-> **English:** FBL Notetaker is a free, local-first Windows app that records meetings, transcribes them, tells speakers apart and writes structured notes – fully on-device, no cloud, no meeting bot. The interface is German; English is planned. [Download the latest version](../../releases/latest) · [License (German, with English translation)](LICENSE.md)
+> **English:** FBL Notetaker is a free, local-first Windows app that records meetings, transcribes them, tells speakers apart and writes structured notes – fully on-device, no cloud, no meeting bot. The interface is German, with an English option (Settings → General). [Download the latest version](../../releases/latest) · [License (German, with English translation)](LICENSE.md)
 
 ---
 
@@ -16,12 +16,14 @@ FBL Notetaker nimmt Meetings auf deinem Windows-Rechner auf, schreibt mit, erken
 - Mikrofon und Systemton als zwei getrennte Spuren, unabhängig vom Konferenz-Tool
 - Auf Wunsch automatisch: Die Aufnahme startet, sobald Teams, Zoom, Webex oder ein Browser das Mikrofon nutzt, und endet mit dem Call
 - Übersteht Gerätewechsel (Headset ↔ Lautsprecher) und Abstürze; Audio wird laufend gespeichert
+- Drei Modi: **Online** (Call am Rechner), **Präsenz** (alle im Raum sprechen ins Mikrofon) und **Hybrid** (beides) – die Sprechererkennung arbeitet jeweils auf der passenden Spur
 - Geräte für Mikrofon und Systemton wählbar, Pegel-Test eingebaut
 
 **Mitschrift und Sprecher**
 - Die Mitschrift läuft schon während des Meetings mit – nach dem Stopp liegt sie in Sekunden vor
 - Deutsch als Standard, Englisch über ein zusätzliches Modell
 - Sprechererkennung nach dem Meeting; Sprecher umbenennen und zusammenführen
+- „Transkript verbessern“: neuer Durchlauf über die ganze Aufnahme, auf Wunsch mit anderem Modell und Wörterbuch für Namen und Fachbegriffe
 
 **Notizen**
 - Zusammenfassung durch ein lokales Sprachmodell nach Vorlage: Standard-Meeting, Kundentermin, Jour fixe, Workshop – oder eigene Vorlagen mit frei definierbaren Abschnitten
@@ -34,6 +36,7 @@ FBL Notetaker nimmt Meetings auf deinem Windows-Rechner auf, schreibt mit, erken
 
 **Komfort**
 - Lebt im Infobereich, startet auf Wunsch mit Windows
+- Oberfläche auf Deutsch oder Englisch
 - Heller und dunkler Modus nach Windows
 - Tonaufnahmen werden auf Wunsch nach einer Frist gelöscht; Mitschrift und Notizen bleiben
 - Nutzt eine vorhandene Grafikkarte automatisch, sonst den Prozessor
