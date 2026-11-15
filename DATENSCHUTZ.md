@@ -2,7 +2,7 @@
 
 *English version below.*
 
-Stand: 14.11.2026 · gilt für FBL Notetaker aus dem Microsoft Store und für den Installer von GitHub
+Stand: 15.11.2026 · gilt für FBL Notetaker aus dem Microsoft Store und für den Installer von GitHub
 
 ## Kurz gesagt
 
@@ -19,6 +19,7 @@ Florian Blauensteiner, Österreich. Kontakt für Fragen zum Datenschutz: [assist
 | Ton vom Mikrofon und vom Systemton (was der Rechner abspielt) | Aufnahme eines Meetings – nur während einer Aufnahme, die Sie starten oder die Sie für erkannte Calls ausdrücklich eingeschaltet haben | Auf Ihrem Rechner |
 | Mitschrift, erkannte Sprecher (Stimmmerkmale nur während der Erkennung im Arbeitsspeicher), Namen, die Sie vergeben, Notizen, Vorlagen | Funktion der App | Datenbank auf Ihrem Rechner |
 | Einstellungen | Funktion der App | Auf Ihrem Rechner |
+| Welche Programme gerade Ton aufnehmen oder abspielen (Audio-Sitzungen von Windows: Programmname und Gerät, keine Töne) | Erkennen, ob ein Call oder ein Telefonat über Bluetooth läuft – nur bei eingeschalteter automatischer Aufnahme oder wenn Sie „Erkennung jetzt prüfen“ drücken | Nur im Arbeitsspeicher Ihres Rechners, wird nicht gespeichert |
 | Fehler-Protokoll | Fehlersuche; enthält **keine** Inhalte aus Meetings | Auf Ihrem Rechner, wird nie übertragen |
 | Anmeldung bei Microsoft (nur wenn Sie den Export nach OneNote nutzen) | Seiten in Ihrem OneNote anlegen | Zugangsschlüssel in der Windows-Anmeldeinformationsverwaltung |
 
@@ -58,7 +59,7 @@ Da der Herausgeber keine Daten von Ihnen erhält oder speichert, gibt es bei ihm
 
 # Privacy Policy – FBL Notetaker
 
-Last updated: 14 November 2026 · applies to FBL Notetaker from the Microsoft Store and to the installer from GitHub
+Last updated: 15 November 2026 · applies to FBL Notetaker from the Microsoft Store and to the installer from GitHub
 
 ## In short
 
@@ -75,6 +76,7 @@ Florian Blauensteiner, Austria. Contact for privacy questions: [assistant@blauen
 | Sound from the microphone and system audio (what the computer plays) | Recording a meeting – only during a recording that you start or that you have explicitly enabled for detected calls | On your computer |
 | Transcript, recognised speakers (voice features only in memory during recognition), names you assign, notes, templates | App functionality | Database on your computer |
 | Settings | App functionality | On your computer |
+| Which programs are currently recording or playing sound (Windows audio sessions: program name and device, no sound) | Detecting whether a call or a Bluetooth phone call is in progress – only with automatic recording switched on or when you press "Check detection now" | Only in your computer's memory, not stored |
 | Error log | Troubleshooting; contains **no** meeting content | On your computer, never transmitted |
 | Microsoft sign-in (only if you use the OneNote export) | Creating pages in your OneNote | Access token in Windows Credential Manager |
 
