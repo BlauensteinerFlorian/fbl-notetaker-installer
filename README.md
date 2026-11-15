@@ -14,14 +14,14 @@ FBL Notetaker nimmt Meetings auf deinem Windows-Rechner auf, schreibt mit, erken
 
 **Aufnahme**
 - Mikrofon und Systemton als zwei getrennte Spuren, unabhängig vom Konferenz-Tool
-- Auf Wunsch automatisch: Die Aufnahme startet, sobald Teams, Zoom, Webex oder ein Browser das Mikrofon nutzt, und endet mit dem Call
+- Auf Wunsch automatisch: Die Aufnahme startet, sobald Teams, Zoom, Webex oder ein Browser das Mikrofon nutzt oder du am Laptop über Bluetooth telefonierst (z. B. mit Smartphone-Link), und endet mit dem Call
 - Übersteht Gerätewechsel (Headset ↔ Lautsprecher) und Abstürze; Audio wird laufend gespeichert
 - Drei Modi: **Online** (Call am Rechner), **Präsenz** (alle im Raum sprechen ins Mikrofon) und **Hybrid** (beides) – die Sprechererkennung arbeitet jeweils auf der passenden Spur
 - Geräte für Mikrofon und Systemton wählbar, Pegel-Test eingebaut
 
 **Mitschrift und Sprecher**
 - Die Mitschrift läuft schon während des Meetings mit – nach dem Stopp liegt sie in Sekunden vor
-- Deutsch als Standard, Englisch über ein zusätzliches Modell
+- Deutsch als Standard, Englisch über ein zusätzliches Modell; mit Whisper auf Wunsch abgestimmt auf österreichisches Deutsch (Wien und Niederösterreich)
 - Sprechererkennung nach dem Meeting; Sprecher umbenennen und zusammenführen
 - „Transkript verbessern“: neuer Durchlauf über die ganze Aufnahme, auf Wunsch mit anderem Modell und Wörterbuch für Namen und Fachbegriffe
 
